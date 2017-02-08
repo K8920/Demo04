@@ -22,10 +22,5 @@ namespace PersonApplication
         {
             Console.WriteLine("This method belongs to Student!");
         }
-
-        public override string ToString()
-        {
-            return base.ToString() + " " + StudentID;
-        }
     }
 }

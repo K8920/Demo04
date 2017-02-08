@@ -21,7 +21,7 @@ namespace PersonApplication
         }
             
         
-
+        
         public void TeacherMethod()
         {
             Console.WriteLine("This method belongs to Teacher!");
